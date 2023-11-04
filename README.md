@@ -2,3 +2,4 @@
 nova alteração
 testando o git add
 alteração remota
+testando git fetch
